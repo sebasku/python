@@ -1,5 +1,5 @@
 # python
-Python script which uses Instance metadata, gathers the required information about an instance, then saves all collected data to a file and place the file in S3 bucket.
+Python script which uses Instance metadata, gathers the required information about an instance, then saves all collected data to a file and places the file in S3 bucket.
 
 Stores info like:
 - Instance ID: 
